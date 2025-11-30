@@ -237,7 +237,6 @@ int main()
     printf("  4. graphique_constant.png - Tableaux constants\n");
     printf("  5. graphique_petites_valeurs.png - Tableaux petites valeurs\n");
     printf("  6. graphique_grandes_valeurs.png - Tableaux grandes valeurs\n");
-    printf("\nVous pouvez maintenant utiliser ces graphiques dans votre rapport PDF!\n");
     
     return EXIT_SUCCESS;
 }
